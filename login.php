@@ -7,6 +7,7 @@
         if(count($errors) === 0)
             redirect('myServices.php');
     }
+    
 ?>
 <!DOCTYPE html>
 <html lang="en">
